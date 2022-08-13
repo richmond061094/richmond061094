@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Richmond Manuel</h1>
 <h3 align="center">A GIS Enthusiast from Philippines</h3>
-<img align="right" alt="GIS" width="400" src="https://carto.com/img/home/asset_maps-1.1f9cdba6.gif">
-
-<p align="left"> <img src="https://media.giphy.com/media/BO6D5gVdzo1Del6z81/giphy.gif" alt="richmond061094" /> </p>
+<img align="right" alt="GIS" width="400" src="https://media.giphy.com/media/BO6D5gVdzo1Del6z81/giphy.gif">
 
 - 📫 How to reach me: **richmond061094@gmail.com**
 
